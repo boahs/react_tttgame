@@ -8,8 +8,16 @@ Simly have .nodejs & react if you want to run this locally
 Open shell 
 
 cd /your/path/tttgame
+
 once inside
+
+node install
+
+yarn build
+
 npm start
+
+Enjoy. Problems? Email me boahs@boahs.info with any questions.
 
 check http://localhost:3000
 
