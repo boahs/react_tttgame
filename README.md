@@ -21,6 +21,8 @@ Enjoy. Problems? Email me boahs@boahs.info with any questions.
 
 check http://localhost:3000
 
+**NOTE** you MAY have to delete package.lock.json, yarn.lock and package.json before doing anything above^ 
+
 
 
 
