@@ -3,7 +3,7 @@
 ~~~~~~                        Dev : Boahs                        ~~~~~~
 ~~~~~~                       https://www.boahs.info              ~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+[GG Easy](https://i.imgur.com/JuJVUlg.gif)
 Simly have .nodejs & react if you want to run this locally 
 Open shell 
 
